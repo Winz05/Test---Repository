@@ -1,0 +1,1 @@
+let bachtiar = "test test gapake tis"
